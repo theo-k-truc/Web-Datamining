@@ -17,6 +17,8 @@ This project implements a full knowledge engineering pipeline across 4 lab sessi
 3. **TD5** — SWRL reasoning and Knowledge Graph Embedding (TransE, ComplEx)
 4. **TD6** — Retrieval-Augmented Generation (RAG) with a local LLM via SPARQL
 
+Video link : https://drive.google.com/file/d/138itVpNa0SLeTo-ZzqQXwiERjqg53wFI/view?usp=sharing 
+
 ---
 
 ## Requirements
